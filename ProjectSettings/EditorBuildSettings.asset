@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainScenes/OpeningScene.unity
+    guid: 99e1983446ead44a9866a57d4ddc18e5
+  - enabled: 1
+    path: Assets/MainScenes/StoneAge.unity
+    guid: 744693b29e28e41b185253cdf69da7b4
+  - enabled: 1
+    path: Assets/MainScenes/EarlyCivilization.unity
+    guid: 1bfc778f67d44497b9d7623871eebaff
+  - enabled: 1
+    path: Assets/MainScenes/Medieval.unity
+    guid: 4e60436d4e2c94ef8830e99519510a1a
+  - enabled: 1
+    path: Assets/MainScenes/Renaissance.unity
+    guid: f853d9bd176b747eba45d5ee8c5218fb
+  - enabled: 1
+    path: Assets/MainScenes/VictoriaEra.unity
+    guid: dfdbee4be52b74c649a074196931164a
+  - enabled: 1
+    path: Assets/MainScenes/ModernEra.unity
+    guid: d444a2391e6014be4b1cfa6de6458a67
+  - enabled: 1
+    path: Assets/MainScenes/GameGallery.unity
+    guid: 8f2be95cd88c647d7a7dae7c0636afaa
+  - enabled: 1
+    path: Assets/SmallMario/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/SmallMario/Scenes/Level2.unity
+    guid: 80e6e03dedcf2473a98b77705508ac3d
+  - enabled: 1
+    path: Assets/FlappyBird/Scenes/Level01.unity
+    guid: 1d9503644af7240c28130bcd120b4e75
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene1.unity
+    guid: 29e81a4c1c62c42949dd29e06be6fab8
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene2.unity
+    guid: 580a022cb8f22456b89f8cc1199caf5a
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene3.unity
+    guid: 740c6dbdf64494842870279367f0c83c
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene4.unity
+    guid: a936c9e9fb9ba418589610c27848a7c0
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene5.unity
+    guid: ea9ddb1f1dab64465b765810c378234a
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene6.unity
+    guid: ffca2f53b13d74b0196c8d46dc3a91ff
+  - enabled: 1
+    path: Assets/DancingGame/Scenes/Dialogue.unity
+    guid: 738804622ad564df58b067b111446d02
+  - enabled: 1
+    path: Assets/DancingGame/Scenes/Level1.unity
+    guid: cf8c99f98c03b43078a8df29d695aa3b
+  - enabled: 1
+    path: Assets/DrawingGame/Scenes/Scene1.unity
+    guid: 6fc8c883014dc460e8360efdd379c727
+  - enabled: 1
+    path: Assets/DrawingGame/Scenes/Scene2.unity
+    guid: 71d3eb64f3d124b2f9e20fed58926b55
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle1_1.unity
+    guid: 33da3af5a786743bf9ccd7ccc2ffa324
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle1_2.unity
+    guid: 4b4d02e32375e4136ac00f5caa73c77c
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle1_3.unity
+    guid: d3fdbb44897b04fb3a0c9a02135d985a
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle2_1.unity
+    guid: 75ddfa6bd63d9432e93334bf82c9cddc
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle2_2.unity
+    guid: da240efc5e079457593dd3a750fc2095
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle2_3.unity
+    guid: 79e66c2bcba9943bd90c20d6b378a66a
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle3_1.unity
+    guid: 1280b1bd1353a40749bc48edb2946428
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle3_2.unity
+    guid: e597f0404fe3241428c5b8ce073b2491
+  - enabled: 1
+    path: Assets/JigzawPuzzle/Scenes/Puzzle3_3.unity
+    guid: 20ff1b41f79a74c3d8e98301c3145fad
+  m_configObjects: {}
