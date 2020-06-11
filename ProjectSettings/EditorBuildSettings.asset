@@ -57,17 +57,38 @@ EditorBuildSettings:
     path: Assets/LookDifference/Scenes/Difference_Scene6.unity
     guid: ffca2f53b13d74b0196c8d46dc3a91ff
   - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene7.unity
+    guid: 3846ffa37927b4251987a611c5aca853
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene8.unity
+    guid: d150a56a2ed3a48499e3f0edc4217daa
+  - enabled: 1
+    path: Assets/LookDifference/Scenes/Difference_Scene9.unity
+    guid: 6b3b5b5a2b45040f4a40ac6aff46c6ba
+  - enabled: 0
     path: Assets/DancingGame/Scenes/Dialogue.unity
     guid: 738804622ad564df58b067b111446d02
   - enabled: 1
     path: Assets/DancingGame/Scenes/Level1.unity
     guid: cf8c99f98c03b43078a8df29d695aa3b
-  - enabled: 1
+  - enabled: 0
     path: Assets/DrawingGame/Scenes/Scene1.unity
-    guid: 6fc8c883014dc460e8360efdd379c727
-  - enabled: 1
+    guid: 713c2634317c04b75ae8d4a2631586af
+  - enabled: 0
     path: Assets/DrawingGame/Scenes/Scene2.unity
     guid: 71d3eb64f3d124b2f9e20fed58926b55
+  - enabled: 0
+    path: Assets/DrawingGame/Scenes/Scene3.unity
+    guid: 73ff24986a24548c4a45ec16e119a0af
+  - enabled: 0
+    path: Assets/DrawingGame/Scenes/Scene4.unity
+    guid: 906b5153ab2ee4db09425c295c4cc028
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/DrawingGame/Scenes/Scene6.unity
+    guid: 46221f1cc397949b08bd516b25e2d3b8
   - enabled: 1
     path: Assets/JigzawPuzzle/Scenes/Puzzle1_1.unity
     guid: 33da3af5a786743bf9ccd7ccc2ffa324
